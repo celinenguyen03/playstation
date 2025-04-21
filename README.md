@@ -8,6 +8,9 @@ PlayStation, a leading brand in the gaming industry, offers a vast ecosystem of 
 
 The analysis utilized three key datasets containing information about PlayStation users and their interactions, and subscription records for PlayStation Plus members.
 
+![Relational Table (PlayStation)](https://github.com/user-attachments/assets/68392302-0230-4a0e-8ad8-93f221bd3468)
+
+
 ## Insights Summary
 
 In order to evaluate player engagement, we focused on the following key metrics:
@@ -46,8 +49,19 @@ In order to evaluate player engagement, we focused on the following key metrics:
 
 ## Dashboard
 
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/celine.nguyen7574/viz/PlayStationUserBehaviorandRetentionDashboard/PlayStationUserBehaviorandRetentionDashboard#1). This dashboard enables users to filter by Plust Tiers and focuses on trends and values in subscription metrics, churn rate metrics, and game popularity metrics.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/celine.nguyen7574/viz/PlayStationUserBehaviorandRetentionDashboard/PlayStationUserBehaviorandRetentionDashboard). This dashboard enables users to filter by Plus Tiers and focuses on trends and values in subscription metrics, churn rate metrics, and game popularity metrics.
 
-## Presenation Sample
+![PS Dashboard](https://github.com/user-attachments/assets/f9ad58a1-43bc-4106-a297-a4382e023a3d)
+
+## Presentation Sample
 
 The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1TmU398gsgoIEHopqoJiMTKEpuwGJN4dLZoh94LthUO4/edit?usp=sharing). Some extracts are presented below for easy viewing.
+
+![PlayStation - Project Overview](https://github.com/user-attachments/assets/711d7908-d9bc-48aa-a69f-6fa5bdce61d3)
+
+![PlayStation - Project Overview (1)](https://github.com/user-attachments/assets/bb6eabb7-4d34-4da4-bd6f-797268d32e96)
+
+![PlayStation - Project Overview (2)](https://github.com/user-attachments/assets/e80a3c5c-0200-48af-81fa-26b3f54ae309)
+
+
+
