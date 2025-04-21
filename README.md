@@ -26,7 +26,7 @@ In order to evaluate player engagement, we focused on the following key metrics:
 * Surprisingly, fresh members (0-30 days) and more tenured members (91-365 days) share a very similar churn rate of 11.43% and 11.30% respectively.
 
 **Subscription Rate**
-* Across all regions, Europe and Northa America experienced the lowest subscription rate at a rate of 68.45% and 68.90% respectively.
+* Across all regions, Europe and North America experienced the lowest subscription rate at a rate of 68.45% and 68.90% respectively.
 * The Plus Tiers all experienced a very similar amount of subscriptions, averaging to around 23% per Plus tiers (Essential, Extra, and Premium), with roughly 30% of all PlayStation users having no subscription plan at all.
 * Overall, the total subscription rate of users is the highest among fresh members, and it consistently gets lower the older an active PlayStation user is, starting at 74.4% for fresh members, waning off to 69.3% for legacy members (older than a year).
 
